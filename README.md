@@ -1,2 +1,2 @@
 # Flood_mortality_NC
-R codes will be shared here for the mansucript "Association of flooding exposure with cause-specific morality in North Carolina, US"
+R codes of the main analysis for the manuscript "Association of flooding exposure with cause-specific mortality in North Carolina, US"
